@@ -5,7 +5,7 @@
   "repository": "github:tink-ab/tink-connect-example",
   "main": "server.js",
   "scripts": {
-    "start": "TINK_CLIENT_SECRET= TINK_CLIENT_ID= node server.mjs"
+    "start": "TINK_CLIENT_SECRET=1004911ba8be4f1b9fb893adff60201f TINK_CLIENT_ID=55a0c0c5ebf141e187380da5168debc1 node server.mjs"
   },
   "author": "",
   "license": "ISC",
@@ -13,4 +13,3 @@
     "node": "18"
   }
 }
-
